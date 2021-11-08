@@ -11,3 +11,7 @@ def foo():
 def spam():
     pass
 
+
+def test():
+    pass
+
