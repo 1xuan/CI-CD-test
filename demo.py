@@ -4,3 +4,7 @@ def add(a, b):
 def foo():
     pass
 
+
+def spam():
+    pass
+
