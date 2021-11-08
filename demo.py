@@ -15,4 +15,6 @@ def spam():
 def m2():
     pass
     
+def test():
+    pass
 
