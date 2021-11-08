@@ -8,3 +8,8 @@ def foo():
 def spam():
     pass
 
+
+def m2():
+    pass
+    
+
