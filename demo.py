@@ -23,3 +23,6 @@ f2 = 'gitlearnbranch'
 f3 = 'gitlearnbranch'
 f4 = 'gitlearnbranch'
 
+def test_merge_1():
+    pass
+
