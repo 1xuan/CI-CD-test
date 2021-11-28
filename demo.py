@@ -29,3 +29,5 @@ f4 = 'gitlearnbranch'
 def test_merge_1():
     pass
 
+def add_by_github():
+    pass
