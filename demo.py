@@ -16,3 +16,6 @@ def add_in_rebasetest():
 def add_in_temp():
     pass
 
+def f1():
+    pass
+
