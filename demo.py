@@ -10,3 +10,6 @@ def foo():
 def add_in_gitlearn():
     pass
 
+def add_in_rebasetest():
+    pass
+
