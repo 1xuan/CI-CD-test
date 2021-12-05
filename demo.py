@@ -19,3 +19,6 @@ def add_in_temp():
 def f1():
     pass
 
+def f2():
+    pass
+
