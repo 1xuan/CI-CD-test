@@ -8,3 +8,6 @@ class TestOne(TestCase):
         rv = add(1, 1)
         self.assertEqual(rv, 2)
 
+    def test_nonsense(self):
+        pass
+
