@@ -37,6 +37,21 @@ This is [an example](http://example.com/ "Title") inline link.
 
 
 
+
+# Unicode And Bytes
+
+> Humans use text. Computer speak bytse.
+
+## Prerequisite Knowledge
+
+- What is Unicode?
+
+Unicode, formally the Unicode Standard, is an **information technology standard** for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems<sup>[[1]](#1)</sup>.
+                                                                                
+
+<a id='1'></a>[Unicode](https://en.wikipedia.org/wiki/Unicode)
+
+
 a
 
 b
