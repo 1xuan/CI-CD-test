@@ -31,7 +31,9 @@ You can create footnotes like this[^3] and this[^4].
 - [x] one line
 - [ ] second line 
 
+## Optional title
 
+This is [an example](http://example.com/ "Title") inline link.
 
 
 
