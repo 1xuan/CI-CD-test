@@ -1,47 +1,35 @@
+## superscript
+
 this<sup>[1](www.google.com)</sup>
 
+## achor
+
+[link to my anchored heading](#my_achor)
+
+<a name="my_achor">[google](https://www.google.com)</a>
+
+<a name="my_achor"></a>[google](https://www.google.com)
 
 
-this<sup><a href="#1">[1]</a></sup>
+## footnotes
 
 You can create footnotes like this[^3] and this[^4].
 
 [^3]: Here is the *text* of the first.
 [^4]: Here is the *text* of the second.
 
-
-
-Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to jump to 
-
-
-
-This is [an example][id] reference-style link. Then, anywhere in the document, you define your link label on a line by itself like this: 
-
+## fold
 
 <details>
     <summary>I have keys but no locks. I have space but no room. You can enter but can't leave. What am I?</summary>
+    
     A keyboard.
 </details>
 
-
-## un-ordered list
-*   Red
-*   Green
-*   Blue
-
-## ordered list
-1.  Red
-2. 	Green
-3.	Blue
+## 
 
 
 
-[Google][]
-And then define the link:
-
-[Google]: http://google.com/
-
-[link to my anchored heading](#my_achor)
 
 
 
@@ -81,16 +69,6 @@ a
 
 
 
-
-header `Block Elements`. 
-
-
-
-
-[id]: http://example.com/  "Optional Title Here"
-
-
-<a name="my_achor">[google](https://www.google.com)</a>
 
 adfsd
 
@@ -139,14 +117,4 @@ sdf
 a
 
 
-sd
-
-
-###### [1]
-
-Here is the text of footnote number.
-
-###### [2]
-
-Here is the text of footnote number 2 [2](#2)
 
