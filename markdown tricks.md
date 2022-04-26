@@ -4,6 +4,13 @@ this<sup>[1](www.google.com)</sup>
 
 this<sup><a href="#1">[1]</a></sup>
 
+You can create footnotes like this[^fn1] and this[^fn2].
+
+[^fn1]: Here is the *text* of the first **footnote**.
+[^fn2]: Here is the *text* of the second **footnote**.
+
+
+
 
 a
 
