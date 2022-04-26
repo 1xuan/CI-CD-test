@@ -24,7 +24,15 @@ This is [an example][id] reference-style link. Then, anywhere in the document, y
 </details>
 
 
+## un-ordered list
+*   Red
+*   Green
+*   Blue
 
+## ordered list
+1.  Red
+2. 	Green
+3.	Blue
 
 
 a
