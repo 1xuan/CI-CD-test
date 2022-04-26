@@ -15,6 +15,13 @@ Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to ju
 
 
 
+This is [an example][id] reference-style link. Then, anywhere in the document, you define your link label on a line by itself like this: 
+
+
+
+
+
+
 
 
 a
@@ -59,6 +66,7 @@ header `Block Elements`.
 
 
 
+[id]: http://example.com/  "Optional Title Here"
 
 
 
