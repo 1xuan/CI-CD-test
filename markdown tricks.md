@@ -41,6 +41,10 @@ And then define the link:
 
 [Google]: http://google.com/
 
+[link to my anchored heading](#my-anchor)
+
+
+
 a
 
 b
@@ -86,6 +90,7 @@ header `Block Elements`.
 [id]: http://example.com/  "Optional Title Here"
 
 
+# My Anchored Heading {#my-anchor}
 
 adfsd
 
