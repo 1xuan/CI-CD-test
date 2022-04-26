@@ -6,8 +6,6 @@ this<sup>[1](www.google.com)</sup>
 
 [link to my anchored heading](#my_achor)
 
-<a name="my_achor">[google](https://www.google.com)</a>
-
 <a name="my_achor"></a>[google](https://www.google.com)
 
 
