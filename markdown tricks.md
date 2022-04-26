@@ -52,6 +52,25 @@ Unicode, formally the Unicode Standard, is an **information technology standard*
 This article [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) introduces Why does Unicode exists?  
 
 
+<details>
+    <summary>In python2, it is exactly converse:</summary>
+
+~~~python
+>>> s = '你好'
+>>> s
+'\xe4\xbd\xa0\xe5\xa5\xbd'
+>>> type(s)
+<type 'str'>
+>>> s.encode('utf8')
+Traceback (most recent call last):                                              
+  File "<stdin>", line 1, in <module>
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
+~~~
+
+</details>
+
+
+
 a
 
 b
