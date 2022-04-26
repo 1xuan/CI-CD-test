@@ -2,8 +2,6 @@
 
 this<sup>[1](www.google.com)</sup>
 
-this^[1](www.google.com)^
-
 ## achor
 
 [link to my anchored heading](#my_achor)
@@ -49,7 +47,7 @@ This is [an example](http://example.com/ "Title") inline link.
 Unicode, formally the Unicode Standard, is an **information technology standard** for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems<sup>[[1]](#1)</sup>.
                                                                                 
 
-1. <a id='1'>[1]</a>[Unicode](https://en.wikipedia.org/wiki/Unicode)
+1. <a id='1'></a>[Unicode](https://en.wikipedia.org/wiki/Unicode)
 
 
 a
