@@ -26,8 +26,10 @@ You can create footnotes like this[^3] and this[^4].
     A keyboard.
 </details>
 
-## 
+## check box
 
+- [x] one line
+- [ ] 
 
 
 
