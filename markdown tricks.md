@@ -29,7 +29,7 @@ You can create footnotes like this[^3] and this[^4].
 ## check box
 
 - [x] one line
-- [ ] 
+- [ ] second line 
 
 
 
