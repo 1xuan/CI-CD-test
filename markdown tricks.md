@@ -17,30 +17,6 @@ Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to ju
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-header `Block Elements`. 
-
-
-
 a
 
 b
@@ -78,10 +54,7 @@ a
 
 
 
-
-
-
-
+header `Block Elements`. 
 
 
 
