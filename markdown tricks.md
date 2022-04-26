@@ -112,7 +112,7 @@ sd
 
 ###### [1]
 
-Here is the text of footnote number[](#1)
+Here is the text of footnote number.
 
 ###### [2]
 
