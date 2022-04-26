@@ -2,6 +2,8 @@
 
 this<sup>[1](www.google.com)</sup>
 
+this^[1](www.google.com)^
+
 ## achor
 
 [link to my anchored heading](#my_achor)
