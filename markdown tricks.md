@@ -4,10 +4,10 @@ this<sup>[1](www.google.com)</sup>
 
 this<sup><a href="#1">[1]</a></sup>
 
-You can create footnotes like this[^fn1] and this[^fn2].
+You can create footnotes like this[^3] and this[^4].
 
-[^fn1]: Here is the *text* of the first **footnote**.
-[^fn2]: Here is the *text* of the second **footnote**.
+[^3]: Here is the *text* of the first.
+[^4]: Here is the *text* of the second.
 
 
 
