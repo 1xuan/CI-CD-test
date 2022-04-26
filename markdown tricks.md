@@ -49,6 +49,8 @@ Unicode, formally the Unicode Standard, is an **information technology standard*
 
 1. <a id='1'></a>[Unicode](https://en.wikipedia.org/wiki/Unicode)
 
+This article [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) introduces Why does Unicode exists?  
+
 
 a
 
