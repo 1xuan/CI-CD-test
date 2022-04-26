@@ -35,6 +35,12 @@ This is [an example][id] reference-style link. Then, anywhere in the document, y
 3.	Blue
 
 
+
+[Google][]
+And then define the link:
+
+[Google]: http://google.com/
+
 a
 
 b
