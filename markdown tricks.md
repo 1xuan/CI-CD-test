@@ -18,7 +18,10 @@ Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to ju
 This is [an example][id] reference-style link. Then, anywhere in the document, you define your link label on a line by itself like this: 
 
 
-
+<details>
+    <summary>I have keys but no locks. I have space but no room. You can enter but can't leave. What am I?</summary>
+    A keyboard.
+</details>
 
 
 
